@@ -1,0 +1,11 @@
+# Security Stuff
+
+
+|                      Name                      |                                                                    Description                                                                    |                               Link                               | Date Added |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| Kritis                                         | Kritis enforces deploy-time security policies. Example is allowing containers with certain CVEs that are approved, disallow criticals etc.        | [kritis](https://github.com/grafeas/kritis)                      | 2020       |
+| Sealed Secrets                                 | A Kubernetes controller and tool for one-way encrypted Secrets. Allows secrets to be encrypted in a repo that can only be decrptyed in a cluster. | [sealed secrets](https://github.com/bitnami-labs/sealed-secrets) | 2020       |
+| KubeVault                                      | Vault Kube Operator                                                                                                                               | [KubeVault](https://kubevault.com/)                              | 2020       |
+| Anchore                                        | Container, Platform Security, Supply chain                                                                                                        | [Anchore](https://anchore.com/)                                  | 2020       |
+| Kubernetes Common Configuration Scoring System | A framework to rate risk with kube assets                                                                                                         | [KCCSS](https://github.com/octarinesec/kccss)                    | 2020       |
+| Octarine Kube Scanner                          | A security scanning tool for kube clusters                                                                                                        | [Octarine](https://github.com/octarinesec/kube-scan)             | 2020       |
