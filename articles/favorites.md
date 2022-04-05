@@ -7,3 +7,4 @@ Stuff I like to remind myself of, or share with others.
 - [Being Glue - Tanya Reilly](https://www.programmingtalks.org/talk/being-glue)
 - [What developer self service should look like - Kaspar von Grünberg](https://humanitec.com/blog/what-developer-self-service-shouldnt-look-like)
 - [DevOps Topologies - Matthew Skelton and expanded by Manuel Pais](https://web.devopstopologies.com/)
+- [open gitops](https://opengitops.dev/)
