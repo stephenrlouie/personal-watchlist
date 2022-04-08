@@ -7,4 +7,5 @@ Stuff I like to remind myself of, or share with others.
 - [Being Glue - Tanya Reilly](https://www.programmingtalks.org/talk/being-glue)
 - [What developer self service should look like - Kaspar von Grünberg](https://humanitec.com/blog/what-developer-self-service-shouldnt-look-like)
 - [DevOps Topologies - Matthew Skelton and expanded by Manuel Pais](https://web.devopstopologies.com/)
-- [open gitops](https://opengitops.dev/)
+- [OpenGitOps - GitOps Working Group (CNCF App Delivery SIG)](https://opengitops.dev/) 
+- [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/) 
