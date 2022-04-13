@@ -2,8 +2,10 @@
 
 
 
-|        Name         |                              Description                              |                      Link                       |
-| ------------------- | --------------------------------------------------------------------- | ----------------------------------------------- |
-| Krew (kube plugins) | kubectl plugins                                                       | [krew](https://krew.sigs.k8s.io/plugins/)       |
-| variant2            | Turn your bash scripts into a modern, single-executable CLI app today | [variant2](https://github.com/mumoshu/variant2) |
-| chezmoi             | Manage your dotfiles across multiple diverse machines, securely.      | [chezmoi](https://www.chezmoi.io/)              |
+|        Name         |                                                    Description                                                    |                           Link                            |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Krew (kube plugins) | kubectl plugins                                                                                                   | [krew](https://krew.sigs.k8s.io/plugins/)                 |
+| variant2            | Turn your bash scripts into a modern, single-executable CLI app today                                             | [variant2](https://github.com/mumoshu/variant2)           |
+| chezmoi             | Manage your dotfiles across multiple diverse machines, securely.                                                  | [chezmoi](https://www.chezmoi.io/)                        |
+| helm-teller         | Allows you to manage configuration and secrets from multiple provider while masking the secrets at the deployment | [helm-teller](https://github.com/SpectralOps/helm-teller) |
+| teller              | A secrets management tool for developers built in Go - never leave your command line for secrets.                 | [tlr](https://github.com/SpectralOps/teller)              |
