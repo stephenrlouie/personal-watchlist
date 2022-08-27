@@ -13,3 +13,5 @@ Stuff I like to remind myself of, or share with others.
 
 ### Other Resources
 - [Internal Developer Platform](https://internaldeveloperplatform.org/)
+- [SLODLC](https://www.slodlc.com/)
+- [SRE](https://sre.xyz/)
