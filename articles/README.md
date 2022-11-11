@@ -9,7 +9,8 @@ Stuff I like to remind myself of, or share with others.
 - [What developer self service should look like - Kaspar von Grünberg](https://humanitec.com/blog/what-developer-self-service-shouldnt-look-like)
 - [DevOps Topologies - Matthew Skelton and expanded by Manuel Pais](https://web.devopstopologies.com/)
 - [OpenGitOps - GitOps Working Group (CNCF App Delivery SIG)](https://opengitops.dev/) 
-- [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/) 
+- [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
+- [Stop Using CPU Limits](https://home.robusta.dev/blog/stop-using-cpu-limits)
 
 ### Other Resources
 - [Internal Developer Platform](https://internaldeveloperplatform.org/)
