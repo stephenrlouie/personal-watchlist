@@ -11,6 +11,10 @@ Stuff I like to remind myself of, or share with others.
 - [OpenGitOps - GitOps Working Group (CNCF App Delivery SIG)](https://opengitops.dev/) 
 - [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Stop Using CPU Limits](https://home.robusta.dev/blog/stop-using-cpu-limits)
+- [Effective Mental Models for Code and Systems - Cindy Sridharan](https://copyconstruct.medium.com/effective-mental-models-for-code-and-systems-7c55918f1b3e)
+
+# Videos
+- [DevOpsDays Rockies 2022 - The Repeat Incident Fallacy](https://youtu.be/Zq8FNk8Tboo?t=17695)
 
 ### Other Resources
 - [Internal Developer Platform](https://internaldeveloperplatform.org/)
