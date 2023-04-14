@@ -11,6 +11,8 @@ Stuff I like to remind myself of, or share with others.
 - [Effective Mental Models for Code and Systems - Cindy Sridharan](https://copyconstruct.medium.com/effective-mental-models-for-code-and-systems-7c55918f1b3e)
 - [Debugging Manifesto - Julia Evans](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto)
 - [A New Definition of Reliability - Jim Gochee](https://thenewstack.io/a-new-definition-of-reliability)
+- [Recruiting developers into Site Reliability Engineering (SRE) - Ash Patel](https://www.srepath.com/recruiting-developers-site-reliability-engineering-sre-guide/)
+- [How We Manage Incident Response at Honeycomb  - Fred Hebert](https://thenewstack.io/how-we-manage-incident-response-at-honeycomb/)
 
 # Videos
 - [DevOpsDays Rockies 2022 - The Repeat Incident Fallacy](https://youtu.be/Zq8FNk8Tboo?t=17695)
@@ -23,6 +25,7 @@ Stuff I like to remind myself of, or share with others.
 ### Code 
 - [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Tech Debt Day - Alex Ewerlof](https://blog.alexewerlof.com/p/tech-debt-day)
+
 ### Monitoring / Observability
 - [Monitor the Kubernetes API Server - Victor Hernando](https://sysdig.com/blog/monitor-kubernetes-api-server/?ck_subscriber_id=1569805027)
 - [Monitor the Kubelet - Victor Hernando](https://sysdig.com/blog/how-to-monitor-kubelet/?ck_subscriber_id=1569805027)
@@ -30,6 +33,12 @@ Stuff I like to remind myself of, or share with others.
 - [Handy tips for creating dashboards - Jessica White](https://jesswhite.co.uk/2018/04/09/impactfuldashboardspart1-post.html)
 - [What makes a good alert? - Dan Slimmon](https://blog.danslimmon.com/2017/10/02/what-makes-a-good-alert)
 - [Counting Forest Fires - Charity Majors](https://www.honeycomb.io/blog/counting-forest-fires)
+- [Incident Retrospective Ground Rules - Lex Neva](https://www.honeycomb.io/blog/incident-retrospective-ground-rules)
+
+
+## Reliability
+- [Uptime Guarantees — A Pragmatic Perspective - Izzy Sabo ](https://world.hey.com/itzy/uptime-guarantees-a-pragmatic-perspective-736d7ea4)
+- [Tiered Availablity Review - Ross Brodbeck](https://hross.substack.com/p/tiered-availability-review)
 
 ## K8s
 - [Stop Using CPU Limits](https://home.robusta.dev/blog/stop-using-cpu-limits)
@@ -41,3 +50,9 @@ Stuff I like to remind myself of, or share with others.
 ## Other lists
 - [awesome-slo](https://github.com/steveazz/awesome-slo)
 - [awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering)
+
+## Outage lessons
+- [Reddit Pi Day Outage - u/grumpimusprime](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
+
+## 101 concepts
+- [AlertManager Best Practices - Javier Martínez](https://dev.to/sysdig/prometheus-alertmanager-best-practices-4872)
