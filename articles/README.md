@@ -62,6 +62,7 @@ Stuff I like to remind myself of, or share with others.
 - [awesome-slo](https://github.com/steveazz/awesome-slo)
 - [awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering)
 - [resilience-engineering - Lorin Hochstein](https://github.com/lorin/resilience-engineering)
+- [awesome-runbook](https://github.com/runbear-io/awesome-runbook)
 
 ## Outage lessons
 - [Reddit Pi Day Outage - u/grumpimusprime](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
