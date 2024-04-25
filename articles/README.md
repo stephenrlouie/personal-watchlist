@@ -25,6 +25,7 @@ Stuff I like to remind myself of, or share with others.
 - [Internal Developer Platform](https://internaldeveloperplatform.org/)
 - [SLODLC](https://www.slodlc.com/)
 - [SRE](https://sre.xyz/)
+- [SRE Interviews](https://github.com/mxssl/sre-interview-prep-guide)
 
 ### Code 
 - [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
@@ -76,6 +77,8 @@ Stuff I like to remind myself of, or share with others.
 - [resilience-engineering - Lorin Hochstein](https://github.com/lorin/resilience-engineering)
 - [awesome-runbook](https://github.com/runbear-io/awesome-runbook)
 - [awesome-load-management](https://github.com/StanzaSystems/awesome-load-management)
+- [The Go libraries that never failed us: 22 libraries you need to know - Robert Laszczak](https://threedots.tech/post/list-of-recommended-libraries/)
+- [Linux Crisis Tools  - Brendan Gregg](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
 ## Outage lessons
 - [Reddit Pi Day Outage - u/grumpimusprime](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
