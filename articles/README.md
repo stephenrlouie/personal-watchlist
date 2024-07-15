@@ -16,6 +16,9 @@ Stuff I like to remind myself of, or share with others.
 - [Perception Shaping - Ross Brodbeck](https://hross.substack.com/p/perception-shaping)
 - [Why You Should Run Your Platform Team Like A Product Team - Gerald Yerden II](https://www.hashicorp.com/blog/why-you-should-run-your-platform-team-like-a-product-team)
 - [An Intuitive Documentation Strategy - Rohit](https://abstraction.blog/2023/11/22/intuitive-documentation-strategy) 
+- [Emotional Intelligence - Amin Astaneh](https://certomodo.substack.com/p/emotional-intelligence)
+- [The #1 Platform Engineering Problem You've Never Heard Of: Platform Decay - Abby Bangser & Daniel Bryant ](https://speakerdeck.com/syntasso/the-number-1-platform-engineering-problem-youve-never-heard-of-platform-decay)
+- [Reflections on 10,000 Hours of Devops - Matt Rickard](https://blog.matt-rickard.com/p/reflections-on-10000-hours-of-devops)
 
 # Videos
 - [DevOpsDays Rockies 2022 - The Repeat Incident Fallacy](https://youtu.be/Zq8FNk8Tboo?t=17695)
@@ -31,6 +34,7 @@ Stuff I like to remind myself of, or share with others.
 - [Go Memory Ballast - Ross Engers](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap/)
 - [Tech Debt Day - Alex Ewerlof](https://blog.alexewerlof.com/p/tech-debt-day)
 - [Darker Corners of Go - Rytis Bielinuas](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
+- [Things you should never do part 1 - Joel Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i)
 
 ### Monitoring / Observability
 - [Monitor the Kubernetes API Server - Victor Hernando](https://sysdig.com/blog/monitor-kubernetes-api-server/?ck_subscriber_id=1569805027)
@@ -44,6 +48,7 @@ Stuff I like to remind myself of, or share with others.
 - [How We Reduced Out Prometheus Infrastructure Footprint By A Third - Raphaël Bizos](https://medium.com/criteo-engineering/how-we-reduced-our-prometheus-infrastructure-footprint-by-a-third-8bf8171e46b1)
 - [Uptime Guarantees: A Pragmatic Perspective - Itzy Sabo](https://world.hey.com/itzy/uptime-guarantees-a-pragmatic-perspective-736d7ea4)
 - [How to write an Incident Postmortem (with example and template) - Jonathan Word](https://argoday.medium.com/how-to-write-an-incident-postmortem-9397244549fd)
+- [Prometheus Performance and Cardinality In Practice - David Calvert](https://medium.com/@dotdc/prometheus-performance-and-cardinality-in-practice-74d5d9cd6230)
 
 
 ## Reliability
@@ -57,6 +62,9 @@ Stuff I like to remind myself of, or share with others.
 - [On Chains and Complex Systems - Lorin Hochstein](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems)
 - [The Courage to Imagine Other Failures - Lorin Horchstein](https://surfingcomplexity.blog/2023/12/22/the-courage-to-imagine-other-failures/)
 - [How Complex Systems Fail - Richard I. Cook, MD](https://how.complexsystems.fail)
+- [Migrating Critical Traffic At Scale With No Downtime Part 1 - Netflix Tech Blog (Shyam Gala, Javier Fernandez-Ivern, Anup Rokkam Pratap, Devang Shah)](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
+- [Resilience Requires Helping Each Other Out - Lorin Hochstein](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out)
+- [Anything But Tech Debt - Emily Nakashima](https://www.honeycomb.io/blog/anything-but-tech-debt)
 
 ## K8s
 - [Stop Using CPU Limits](https://home.robusta.dev/blog/stop-using-cpu-limits)
@@ -85,3 +93,6 @@ Stuff I like to remind myself of, or share with others.
 
 ## 101 concepts
 - [AlertManager Best Practices - Javier Martínez](https://dev.to/sysdig/prometheus-alertmanager-best-practices-4872)
+
+## Random
+- [Automation and the Jevons paradox - Tim Paul](https://www.timpaul.co.uk/posts/automation-and-the-jevons-paradox)
