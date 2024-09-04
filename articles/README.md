@@ -78,6 +78,8 @@ Stuff I like to remind myself of, or share with others.
 ## Gitops
 - [How to Model Your GitOps Environments and Promote Releases between Them - Kostis Kapelonis](https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them)
 
+## Security 
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org)
 
 ## Other lists
 - [awesome-slo](https://github.com/steveazz/awesome-slo)
@@ -87,6 +89,7 @@ Stuff I like to remind myself of, or share with others.
 - [awesome-load-management](https://github.com/StanzaSystems/awesome-load-management)
 - [The Go libraries that never failed us: 22 libraries you need to know - Robert Laszczak](https://threedots.tech/post/list-of-recommended-libraries/)
 - [Linux Crisis Tools  - Brendan Gregg](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
+- [awesome-platform-engineering-tools - Saifeddine Rajhi](https://github.com/seifrajhi/awesome-platform-engineering-tools)
 
 ## Outage lessons
 - [Reddit Pi Day Outage - u/grumpimusprime](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
